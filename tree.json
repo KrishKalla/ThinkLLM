@@ -1,0 +1,4819 @@
+{
+    "nodes": [
+        {
+            "id": "ROOT--0",
+            "label": "ROOT",
+            "count": 0
+        },
+        {
+            "id": "intelligence--1",
+            "label": "intelligence",
+            "count": 1
+        },
+        {
+            "id": "is--2",
+            "label": "is",
+            "count": 2
+        },
+        {
+            "id": "the--3",
+            "label": "the",
+            "count": 3
+        },
+        {
+            "id": "ability--4",
+            "label": "ability",
+            "count": 4
+        },
+        {
+            "id": "to--5",
+            "label": "to",
+            "count": 5
+        },
+        {
+            "id": "learn,--6",
+            "label": "learn,",
+            "count": 6
+        },
+        {
+            "id": "understand,--7",
+            "label": "understand,",
+            "count": 7
+        },
+        {
+            "id": "and--8",
+            "label": "and",
+            "count": 8
+        },
+        {
+            "id": "apply--9",
+            "label": "apply",
+            "count": 9
+        },
+        {
+            "id": "knowledge--10",
+            "label": "knowledge",
+            "count": 10
+        },
+        {
+            "id": "and--11",
+            "label": "and",
+            "count": 11
+        },
+        {
+            "id": "skills--12",
+            "label": "skills",
+            "count": 12
+        },
+        {
+            "id": "in--13",
+            "label": "in",
+            "count": 13
+        },
+        {
+            "id": "various--14",
+            "label": "various",
+            "count": 14
+        },
+        {
+            "id": "contexts,--15",
+            "label": "contexts,",
+            "count": 15
+        },
+        {
+            "id": "allowing--16",
+            "label": "allowing",
+            "count": 16
+        },
+        {
+            "id": "individuals--17",
+            "label": "individuals",
+            "count": 17
+        },
+        {
+            "id": "to--18",
+            "label": "to",
+            "count": 18
+        },
+        {
+            "id": "solve--19",
+            "label": "solve",
+            "count": 19
+        },
+        {
+            "id": "problems,--20",
+            "label": "problems,",
+            "count": 20
+        },
+        {
+            "id": "adapt--21",
+            "label": "adapt",
+            "count": 21
+        },
+        {
+            "id": "to--22",
+            "label": "to",
+            "count": 22
+        },
+        {
+            "id": "new--23",
+            "label": "new",
+            "count": 23
+        },
+        {
+            "id": "environments,--24",
+            "label": "environments,",
+            "count": 24
+        },
+        {
+            "id": "think--25",
+            "label": "think",
+            "count": 25
+        },
+        {
+            "id": "critically,--26",
+            "label": "critically,",
+            "count": 26
+        },
+        {
+            "id": "and--27",
+            "label": "and",
+            "count": 27
+        },
+        {
+            "id": "make--28",
+            "label": "make",
+            "count": 28
+        },
+        {
+            "id": "informed--29",
+            "label": "informed",
+            "count": 29
+        },
+        {
+            "id": "decisions.--30",
+            "label": "decisions.",
+            "count": 30
+        },
+        {
+            "id": "effectively--13",
+            "label": "effectively",
+            "count": 13
+        },
+        {
+            "id": "across--14",
+            "label": "across",
+            "count": 14
+        },
+        {
+            "id": "various--15",
+            "label": "various",
+            "count": 15
+        },
+        {
+            "id": "contexts,--16",
+            "label": "contexts,",
+            "count": 16
+        },
+        {
+            "id": "enabling--17",
+            "label": "enabling",
+            "count": 17
+        },
+        {
+            "id": "individuals--18",
+            "label": "individuals",
+            "count": 18
+        },
+        {
+            "id": "to--19",
+            "label": "to",
+            "count": 19
+        },
+        {
+            "id": "adapt--20",
+            "label": "adapt",
+            "count": 20
+        },
+        {
+            "id": "to--21",
+            "label": "to",
+            "count": 21
+        },
+        {
+            "id": "new--22",
+            "label": "new",
+            "count": 22
+        },
+        {
+            "id": "situations,--23",
+            "label": "situations,",
+            "count": 23
+        },
+        {
+            "id": "solve--24",
+            "label": "solve",
+            "count": 24
+        },
+        {
+            "id": "complex--25",
+            "label": "complex",
+            "count": 25
+        },
+        {
+            "id": "problems,--26",
+            "label": "problems,",
+            "count": 26
+        },
+        {
+            "id": "think--28",
+            "label": "think",
+            "count": 28
+        },
+        {
+            "id": "critically--29",
+            "label": "critically",
+            "count": 29
+        },
+        {
+            "id": "while--30",
+            "label": "while",
+            "count": 30
+        },
+        {
+            "id": "also--31",
+            "label": "also",
+            "count": 31
+        },
+        {
+            "id": "exhibiting--32",
+            "label": "exhibiting",
+            "count": 32
+        },
+        {
+            "id": "creativity,--33",
+            "label": "creativity,",
+            "count": 33
+        },
+        {
+            "id": "emotional--34",
+            "label": "emotional",
+            "count": 34
+        },
+        {
+            "id": "awareness,--35",
+            "label": "awareness,",
+            "count": 35
+        },
+        {
+            "id": "and--36",
+            "label": "and",
+            "count": 36
+        },
+        {
+            "id": "the--37",
+            "label": "the",
+            "count": 37
+        },
+        {
+            "id": "capacity--38",
+            "label": "capacity",
+            "count": 38
+        },
+        {
+            "id": "for--39",
+            "label": "for",
+            "count": 39
+        },
+        {
+            "id": "abstract--40",
+            "label": "abstract",
+            "count": 40
+        },
+        {
+            "id": "reasoning.--41",
+            "label": "reasoning.",
+            "count": 41
+        },
+        {
+            "id": "to--13",
+            "label": "to",
+            "count": 13
+        },
+        {
+            "id": "adapt--14",
+            "label": "adapt",
+            "count": 14
+        },
+        {
+            "id": "to--15",
+            "label": "to",
+            "count": 15
+        },
+        {
+            "id": "new--16",
+            "label": "new",
+            "count": 16
+        },
+        {
+            "id": "situations--17",
+            "label": "situations",
+            "count": 17
+        },
+        {
+            "id": "and--18",
+            "label": "and",
+            "count": 18
+        },
+        {
+            "id": "complex--20",
+            "label": "complex",
+            "count": 20
+        },
+        {
+            "id": "problems--21",
+            "label": "problems",
+            "count": 21
+        },
+        {
+            "id": "through--22",
+            "label": "through",
+            "count": 22
+        },
+        {
+            "id": "critical--23",
+            "label": "critical",
+            "count": 23
+        },
+        {
+            "id": "thinking,--24",
+            "label": "thinking,",
+            "count": 24
+        },
+        {
+            "id": "creativity,--25",
+            "label": "creativity,",
+            "count": 25
+        },
+        {
+            "id": "reasoning,--26",
+            "label": "reasoning,",
+            "count": 26
+        },
+        {
+            "id": "emotional--28",
+            "label": "emotional",
+            "count": 28
+        },
+        {
+            "id": "awareness,--29",
+            "label": "awareness,",
+            "count": 29
+        },
+        {
+            "id": "enabling--30",
+            "label": "enabling",
+            "count": 30
+        },
+        {
+            "id": "an--31",
+            "label": "an",
+            "count": 31
+        },
+        {
+            "id": "individual--32",
+            "label": "individual",
+            "count": 32
+        },
+        {
+            "id": "or--33",
+            "label": "or",
+            "count": 33
+        },
+        {
+            "id": "system--34",
+            "label": "system",
+            "count": 34
+        },
+        {
+            "id": "to--35",
+            "label": "to",
+            "count": 35
+        },
+        {
+            "id": "effectively--36",
+            "label": "effectively",
+            "count": 36
+        },
+        {
+            "id": "interpret,--37",
+            "label": "interpret,",
+            "count": 37
+        },
+        {
+            "id": "navigate,--38",
+            "label": "navigate,",
+            "count": 38
+        },
+        {
+            "id": "and--39",
+            "label": "and",
+            "count": 39
+        },
+        {
+            "id": "influence--40",
+            "label": "influence",
+            "count": 40
+        },
+        {
+            "id": "a--41",
+            "label": "a",
+            "count": 41
+        },
+        {
+            "id": "rapidly--42",
+            "label": "rapidly",
+            "count": 42
+        },
+        {
+            "id": "changing--43",
+            "label": "changing",
+            "count": 43
+        },
+        {
+            "id": "world.--44",
+            "label": "world.",
+            "count": 44
+        },
+        {
+            "id": "situations,--17",
+            "label": "situations,",
+            "count": 17
+        },
+        {
+            "id": "solve--18",
+            "label": "solve",
+            "count": 18
+        },
+        {
+            "id": "problems,--19",
+            "label": "problems,",
+            "count": 19
+        },
+        {
+            "id": "and--20",
+            "label": "and",
+            "count": 20
+        },
+        {
+            "id": "think--21",
+            "label": "think",
+            "count": 21
+        },
+        {
+            "id": "critically--22",
+            "label": "critically",
+            "count": 22
+        },
+        {
+            "id": "and--23",
+            "label": "and",
+            "count": 23
+        },
+        {
+            "id": "creatively--24",
+            "label": "creatively",
+            "count": 24
+        },
+        {
+            "id": "across--25",
+            "label": "across",
+            "count": 25
+        },
+        {
+            "id": "various--26",
+            "label": "various",
+            "count": 26
+        },
+        {
+            "id": "domains.--27",
+            "label": "domains.",
+            "count": 27
+        },
+        {
+            "id": "adapt--9",
+            "label": "adapt",
+            "count": 9
+        },
+        {
+            "id": "to--10",
+            "label": "to",
+            "count": 10
+        },
+        {
+            "id": "new--11",
+            "label": "new",
+            "count": 11
+        },
+        {
+            "id": "information--12",
+            "label": "information",
+            "count": 12
+        },
+        {
+            "id": "and--13",
+            "label": "and",
+            "count": 13
+        },
+        {
+            "id": "environments,--14",
+            "label": "environments,",
+            "count": 14
+        },
+        {
+            "id": "applying--15",
+            "label": "applying",
+            "count": 15
+        },
+        {
+            "id": "knowledge--16",
+            "label": "knowledge",
+            "count": 16
+        },
+        {
+            "id": "and--17",
+            "label": "and",
+            "count": 17
+        },
+        {
+            "id": "reasoning--18",
+            "label": "reasoning",
+            "count": 18
+        },
+        {
+            "id": "solve--20",
+            "label": "solve",
+            "count": 20
+        },
+        {
+            "id": "problems,--21",
+            "label": "problems,",
+            "count": 21
+        },
+        {
+            "id": "make--22",
+            "label": "make",
+            "count": 22
+        },
+        {
+            "id": "decisions,--23",
+            "label": "decisions,",
+            "count": 23
+        },
+        {
+            "id": "and--24",
+            "label": "and",
+            "count": 24
+        },
+        {
+            "id": "critically--26",
+            "label": "critically",
+            "count": 26
+        },
+        {
+            "id": "creatively.--28",
+            "label": "creatively.",
+            "count": 28
+        },
+        {
+            "id": "adapt,--7",
+            "label": "adapt,",
+            "count": 7
+        },
+        {
+            "id": "solve--14",
+            "label": "solve",
+            "count": 14
+        },
+        {
+            "id": "problems,--15",
+            "label": "problems,",
+            "count": 15
+        },
+        {
+            "id": "make--16",
+            "label": "make",
+            "count": 16
+        },
+        {
+            "id": "decisions,--17",
+            "label": "decisions,",
+            "count": 17
+        },
+        {
+            "id": "comprehend--19",
+            "label": "comprehend",
+            "count": 19
+        },
+        {
+            "id": "ideas--21",
+            "label": "ideas",
+            "count": 21
+        },
+        {
+            "id": "in--22",
+            "label": "in",
+            "count": 22
+        },
+        {
+            "id": "a--23",
+            "label": "a",
+            "count": 23
+        },
+        {
+            "id": "rapidly--24",
+            "label": "rapidly",
+            "count": 24
+        },
+        {
+            "id": "changing--25",
+            "label": "changing",
+            "count": 25
+        },
+        {
+            "id": "environment.--26",
+            "label": "environment.",
+            "count": 26
+        },
+        {
+            "id": "navigate--14",
+            "label": "navigate",
+            "count": 14
+        },
+        {
+            "id": "and--15",
+            "label": "and",
+            "count": 15
+        },
+        {
+            "id": "solve--16",
+            "label": "solve",
+            "count": 16
+        },
+        {
+            "id": "complex--17",
+            "label": "complex",
+            "count": 17
+        },
+        {
+            "id": "problems--18",
+            "label": "problems",
+            "count": 18
+        },
+        {
+            "id": "in--19",
+            "label": "in",
+            "count": 19
+        },
+        {
+            "id": "diverse--20",
+            "label": "diverse",
+            "count": 20
+        },
+        {
+            "id": "environments,--21",
+            "label": "environments,",
+            "count": 21
+        },
+        {
+            "id": "often--22",
+            "label": "often",
+            "count": 22
+        },
+        {
+            "id": "involving--23",
+            "label": "involving",
+            "count": 23
+        },
+        {
+            "id": "creativity,--24",
+            "label": "creativity,",
+            "count": 24
+        },
+        {
+            "id": "reasoning,--25",
+            "label": "reasoning,",
+            "count": 25
+        },
+        {
+            "id": "and--26",
+            "label": "and",
+            "count": 26
+        },
+        {
+            "id": "understanding--27",
+            "label": "understanding",
+            "count": 27
+        },
+        {
+            "id": "of--28",
+            "label": "of",
+            "count": 28
+        },
+        {
+            "id": "abstract--29",
+            "label": "abstract",
+            "count": 29
+        },
+        {
+            "id": "concepts.--30",
+            "label": "concepts.",
+            "count": 30
+        },
+        {
+            "id": "acquire,--6",
+            "label": "acquire,",
+            "count": 6
+        },
+        {
+            "id": "adapt--16",
+            "label": "adapt",
+            "count": 16
+        },
+        {
+            "id": "to--17",
+            "label": "to",
+            "count": 17
+        },
+        {
+            "id": "new--18",
+            "label": "new",
+            "count": 18
+        },
+        {
+            "id": "situations,--19",
+            "label": "situations,",
+            "count": 19
+        },
+        {
+            "id": "while--23",
+            "label": "while",
+            "count": 23
+        },
+        {
+            "id": "demonstrating--24",
+            "label": "demonstrating",
+            "count": 24
+        },
+        {
+            "id": "emotional--25",
+            "label": "emotional",
+            "count": 25
+        },
+        {
+            "id": "insight--26",
+            "label": "insight",
+            "count": 26
+        },
+        {
+            "id": "creativity.--28",
+            "label": "creativity.",
+            "count": 28
+        },
+        {
+            "id": "learn--21",
+            "label": "learn",
+            "count": 21
+        },
+        {
+            "id": "from--22",
+            "label": "from",
+            "count": 22
+        },
+        {
+            "id": "experience,--23",
+            "label": "experience,",
+            "count": 23
+        },
+        {
+            "id": "while--24",
+            "label": "while",
+            "count": 24
+        },
+        {
+            "id": "integrating--25",
+            "label": "integrating",
+            "count": 25
+        },
+        {
+            "id": "logical--26",
+            "label": "logical",
+            "count": 26
+        },
+        {
+            "id": "reasoning,--27",
+            "label": "reasoning,",
+            "count": 27
+        },
+        {
+            "id": "creativity,--28",
+            "label": "creativity,",
+            "count": 28
+        },
+        {
+            "id": "emotional--29",
+            "label": "emotional",
+            "count": 29
+        },
+        {
+            "id": "insight,--30",
+            "label": "insight,",
+            "count": 30
+        },
+        {
+            "id": "and--31",
+            "label": "and",
+            "count": 31
+        },
+        {
+            "id": "possibly--32",
+            "label": "possibly",
+            "count": 32
+        },
+        {
+            "id": "even--33",
+            "label": "even",
+            "count": 33
+        },
+        {
+            "id": "social--34",
+            "label": "social",
+            "count": 34
+        },
+        {
+            "id": "enabling--36",
+            "label": "enabling",
+            "count": 36
+        },
+        {
+            "id": "individuals--37",
+            "label": "individuals",
+            "count": 37
+        },
+        {
+            "id": "to--38",
+            "label": "to",
+            "count": 38
+        },
+        {
+            "id": "make--39",
+            "label": "make",
+            "count": 39
+        },
+        {
+            "id": "informed--40",
+            "label": "informed",
+            "count": 40
+        },
+        {
+            "id": "decisions--41",
+            "label": "decisions",
+            "count": 41
+        },
+        {
+            "id": "and--42",
+            "label": "and",
+            "count": 42
+        },
+        {
+            "id": "contribute--43",
+            "label": "contribute",
+            "count": 43
+        },
+        {
+            "id": "effectively--44",
+            "label": "effectively",
+            "count": 44
+        },
+        {
+            "id": "to--45",
+            "label": "to",
+            "count": 45
+        },
+        {
+            "id": "society.--46",
+            "label": "society.",
+            "count": 46
+        },
+        {
+            "id": "adapt--19",
+            "label": "adapt",
+            "count": 19
+        },
+        {
+            "id": "to--20",
+            "label": "to",
+            "count": 20
+        },
+        {
+            "id": "new--21",
+            "label": "new",
+            "count": 21
+        },
+        {
+            "id": "situations--22",
+            "label": "situations",
+            "count": 22
+        },
+        {
+            "id": "effectively.--23",
+            "label": "effectively.",
+            "count": 23
+        },
+        {
+            "id": "apply,--7",
+            "label": "apply,",
+            "count": 7
+        },
+        {
+            "id": "generate--9",
+            "label": "generate",
+            "count": 9
+        },
+        {
+            "id": "changing--16",
+            "label": "changing",
+            "count": 16
+        },
+        {
+            "id": "environments,--17",
+            "label": "environments,",
+            "count": 17
+        },
+        {
+            "id": "complex--19",
+            "label": "complex",
+            "count": 19
+        },
+        {
+            "id": "and--21",
+            "label": "and",
+            "count": 21
+        },
+        {
+            "id": "engage--22",
+            "label": "engage",
+            "count": 22
+        },
+        {
+            "id": "in--23",
+            "label": "in",
+            "count": 23
+        },
+        {
+            "id": "abstract--24",
+            "label": "abstract",
+            "count": 24
+        },
+        {
+            "id": "reasoning--25",
+            "label": "reasoning",
+            "count": 25
+        },
+        {
+            "id": "critical--27",
+            "label": "critical",
+            "count": 27
+        },
+        {
+            "id": "thinking,--28",
+            "label": "thinking,",
+            "count": 28
+        },
+        {
+            "id": "manifesting--29",
+            "label": "manifesting",
+            "count": 29
+        },
+        {
+            "id": "in--30",
+            "label": "in",
+            "count": 30
+        },
+        {
+            "id": "various--31",
+            "label": "various",
+            "count": 31
+        },
+        {
+            "id": "forms--32",
+            "label": "forms",
+            "count": 32
+        },
+        {
+            "id": "such--33",
+            "label": "such",
+            "count": 33
+        },
+        {
+            "id": "as--34",
+            "label": "as",
+            "count": 34
+        },
+        {
+            "id": "emotional,--35",
+            "label": "emotional,",
+            "count": 35
+        },
+        {
+            "id": "linguistic,--36",
+            "label": "linguistic,",
+            "count": 36
+        },
+        {
+            "id": "logical-mathematical,--37",
+            "label": "logical-mathematical,",
+            "count": 37
+        },
+        {
+            "id": "spatial,--38",
+            "label": "spatial,",
+            "count": 38
+        },
+        {
+            "id": "musical,--39",
+            "label": "musical,",
+            "count": 39
+        },
+        {
+            "id": "interpersonal,--40",
+            "label": "interpersonal,",
+            "count": 40
+        },
+        {
+            "id": "and--41",
+            "label": "and",
+            "count": 41
+        },
+        {
+            "id": "intrapersonal--42",
+            "label": "intrapersonal",
+            "count": 42
+        },
+        {
+            "id": "intelligence,--43",
+            "label": "intelligence,",
+            "count": 43
+        },
+        {
+            "id": "each--44",
+            "label": "each",
+            "count": 44
+        },
+        {
+            "id": "contributing--45",
+            "label": "contributing",
+            "count": 45
+        },
+        {
+            "id": "distinctively--46",
+            "label": "distinctively",
+            "count": 46
+        },
+        {
+            "id": "to--47",
+            "label": "to",
+            "count": 47
+        },
+        {
+            "id": "personal--48",
+            "label": "personal",
+            "count": 48
+        },
+        {
+            "id": "and--49",
+            "label": "and",
+            "count": 49
+        },
+        {
+            "id": "collective--50",
+            "label": "collective",
+            "count": 50
+        },
+        {
+            "id": "success--51",
+            "label": "success",
+            "count": 51
+        },
+        {
+            "id": "and--52",
+            "label": "and",
+            "count": 52
+        },
+        {
+            "id": "innovation.--53",
+            "label": "innovation.",
+            "count": 53
+        },
+        {
+            "id": "experiences,--23",
+            "label": "experiences,",
+            "count": 23
+        },
+        {
+            "id": "understand--25",
+            "label": "understand",
+            "count": 25
+        },
+        {
+            "id": "complex--26",
+            "label": "complex",
+            "count": 26
+        },
+        {
+            "id": "concepts,--27",
+            "label": "concepts,",
+            "count": 27
+        },
+        {
+            "id": "contributing--28",
+            "label": "contributing",
+            "count": 28
+        },
+        {
+            "id": "to--29",
+            "label": "to",
+            "count": 29
+        },
+        {
+            "id": "effective--30",
+            "label": "effective",
+            "count": 30
+        },
+        {
+            "id": "decision-making--31",
+            "label": "decision-making",
+            "count": 31
+        },
+        {
+            "id": "and--32",
+            "label": "and",
+            "count": 32
+        },
+        {
+            "id": "creativity.--33",
+            "label": "creativity.",
+            "count": 33
+        },
+        {
+            "id": "acquire--6",
+            "label": "acquire",
+            "count": 6
+        },
+        {
+            "id": "and--7",
+            "label": "and",
+            "count": 7
+        },
+        {
+            "id": "apply--8",
+            "label": "apply",
+            "count": 8
+        },
+        {
+            "id": "knowledge--9",
+            "label": "knowledge",
+            "count": 9
+        },
+        {
+            "id": "and--10",
+            "label": "and",
+            "count": 10
+        },
+        {
+            "id": "skills--11",
+            "label": "skills",
+            "count": 11
+        },
+        {
+            "id": "in--12",
+            "label": "in",
+            "count": 12
+        },
+        {
+            "id": "a--13",
+            "label": "a",
+            "count": 13
+        },
+        {
+            "id": "way--14",
+            "label": "way",
+            "count": 14
+        },
+        {
+            "id": "that--15",
+            "label": "that",
+            "count": 15
+        },
+        {
+            "id": "allows--16",
+            "label": "allows",
+            "count": 16
+        },
+        {
+            "id": "for--17",
+            "label": "for",
+            "count": 17
+        },
+        {
+            "id": "problem-solving,--18",
+            "label": "problem-solving,",
+            "count": 18
+        },
+        {
+            "id": "adaptation--19",
+            "label": "adaptation",
+            "count": 19
+        },
+        {
+            "id": "situations,--22",
+            "label": "situations,",
+            "count": 22
+        },
+        {
+            "id": "creative--23",
+            "label": "creative",
+            "count": 23
+        },
+        {
+            "id": "and--25",
+            "label": "and",
+            "count": 25
+        },
+        {
+            "id": "effective--26",
+            "label": "effective",
+            "count": 26
+        },
+        {
+            "id": "communication,--27",
+            "label": "communication,",
+            "count": 27
+        },
+        {
+            "id": "driving--28",
+            "label": "driving",
+            "count": 28
+        },
+        {
+            "id": "the--29",
+            "label": "the",
+            "count": 29
+        },
+        {
+            "id": "capacity--30",
+            "label": "capacity",
+            "count": 30
+        },
+        {
+            "id": "to--31",
+            "label": "to",
+            "count": 31
+        },
+        {
+            "id": "understand--32",
+            "label": "understand",
+            "count": 32
+        },
+        {
+            "id": "complex--33",
+            "label": "complex",
+            "count": 33
+        },
+        {
+            "id": "ideas,--34",
+            "label": "ideas,",
+            "count": 34
+        },
+        {
+            "id": "learn--35",
+            "label": "learn",
+            "count": 35
+        },
+        {
+            "id": "from--36",
+            "label": "from",
+            "count": 36
+        },
+        {
+            "id": "experience,--37",
+            "label": "experience,",
+            "count": 37
+        },
+        {
+            "id": "and--38",
+            "label": "and",
+            "count": 38
+        },
+        {
+            "id": "overcome--39",
+            "label": "overcome",
+            "count": 39
+        },
+        {
+            "id": "challenges--40",
+            "label": "challenges",
+            "count": 40
+        },
+        {
+            "id": "with--41",
+            "label": "with",
+            "count": 41
+        },
+        {
+            "id": "insight--42",
+            "label": "insight",
+            "count": 42
+        },
+        {
+            "id": "and--43",
+            "label": "and",
+            "count": 43
+        },
+        {
+            "id": "foresight.--44",
+            "label": "foresight.",
+            "count": 44
+        },
+        {
+            "id": "learn--6",
+            "label": "learn",
+            "count": 6
+        },
+        {
+            "id": "from--7",
+            "label": "from",
+            "count": 7
+        },
+        {
+            "id": "experiences,--8",
+            "label": "experiences,",
+            "count": 8
+        },
+        {
+            "id": "situations,--12",
+            "label": "situations,",
+            "count": 12
+        },
+        {
+            "id": "understand--13",
+            "label": "understand",
+            "count": 13
+        },
+        {
+            "id": "complex--14",
+            "label": "complex",
+            "count": 14
+        },
+        {
+            "id": "concepts,--15",
+            "label": "concepts,",
+            "count": 15
+        },
+        {
+            "id": "recognize--16",
+            "label": "recognize",
+            "count": 16
+        },
+        {
+            "id": "patterns,--17",
+            "label": "patterns,",
+            "count": 17
+        },
+        {
+            "id": "make--21",
+            "label": "make",
+            "count": 21
+        },
+        {
+            "id": "reasoned--22",
+            "label": "reasoned",
+            "count": 22
+        },
+        {
+            "id": "often--24",
+            "label": "often",
+            "count": 24
+        },
+        {
+            "id": "characterized--25",
+            "label": "characterized",
+            "count": 25
+        },
+        {
+            "id": "by--26",
+            "label": "by",
+            "count": 26
+        },
+        {
+            "id": "the--27",
+            "label": "the",
+            "count": 27
+        },
+        {
+            "id": "capacity--28",
+            "label": "capacity",
+            "count": 28
+        },
+        {
+            "id": "for--29",
+            "label": "for",
+            "count": 29
+        },
+        {
+            "id": "abstract--30",
+            "label": "abstract",
+            "count": 30
+        },
+        {
+            "id": "thinking,--31",
+            "label": "thinking,",
+            "count": 31
+        },
+        {
+            "id": "strategic--32",
+            "label": "strategic",
+            "count": 32
+        },
+        {
+            "id": "planning,--33",
+            "label": "planning,",
+            "count": 33
+        },
+        {
+            "id": "and--34",
+            "label": "and",
+            "count": 34
+        },
+        {
+            "id": "the--35",
+            "label": "the",
+            "count": 35
+        },
+        {
+            "id": "discernment--36",
+            "label": "discernment",
+            "count": 36
+        },
+        {
+            "id": "to--37",
+            "label": "to",
+            "count": 37
+        },
+        {
+            "id": "apply--38",
+            "label": "apply",
+            "count": 38
+        },
+        {
+            "id": "knowledge--39",
+            "label": "knowledge",
+            "count": 39
+        },
+        {
+            "id": "effectively--40",
+            "label": "effectively",
+            "count": 40
+        },
+        {
+            "id": "in--41",
+            "label": "in",
+            "count": 41
+        },
+        {
+            "id": "diverse--42",
+            "label": "diverse",
+            "count": 42
+        },
+        {
+            "id": "environments.--43",
+            "label": "environments.",
+            "count": 43
+        },
+        {
+            "id": "understand,--6",
+            "label": "understand,",
+            "count": 6
+        },
+        {
+            "id": "interpret,--7",
+            "label": "interpret,",
+            "count": 7
+        },
+        {
+            "id": "from--11",
+            "label": "from",
+            "count": 11
+        },
+        {
+            "id": "various--12",
+            "label": "various",
+            "count": 12
+        },
+        {
+            "id": "experiences--13",
+            "label": "experiences",
+            "count": 13
+        },
+        {
+            "id": "and--14",
+            "label": "and",
+            "count": 14
+        },
+        {
+            "id": "information,--15",
+            "label": "information,",
+            "count": 15
+        },
+        {
+            "id": "enabling--16",
+            "label": "enabling",
+            "count": 16
+        },
+        {
+            "id": "situations,--24",
+            "label": "situations,",
+            "count": 24
+        },
+        {
+            "id": "adapt--6",
+            "label": "adapt",
+            "count": 6
+        },
+        {
+            "id": "to--7",
+            "label": "to",
+            "count": 7
+        },
+        {
+            "id": "new--8",
+            "label": "new",
+            "count": 8
+        },
+        {
+            "id": "situations,--9",
+            "label": "situations,",
+            "count": 9
+        },
+        {
+            "id": "solve--10",
+            "label": "solve",
+            "count": 10
+        },
+        {
+            "id": "complex--11",
+            "label": "complex",
+            "count": 11
+        },
+        {
+            "id": "problems,--12",
+            "label": "problems,",
+            "count": 12
+        },
+        {
+            "id": "learn--13",
+            "label": "learn",
+            "count": 13
+        },
+        {
+            "id": "from--14",
+            "label": "from",
+            "count": 14
+        },
+        {
+            "id": "experience,--15",
+            "label": "experience,",
+            "count": 15
+        },
+        {
+            "id": "and--16",
+            "label": "and",
+            "count": 16
+        },
+        {
+            "id": "apply--17",
+            "label": "apply",
+            "count": 17
+        },
+        {
+            "id": "knowledge--18",
+            "label": "knowledge",
+            "count": 18
+        },
+        {
+            "id": "effectively--19",
+            "label": "effectively",
+            "count": 19
+        },
+        {
+            "id": "across--20",
+            "label": "across",
+            "count": 20
+        },
+        {
+            "id": "diverse--21",
+            "label": "diverse",
+            "count": 21
+        },
+        {
+            "id": "contexts,--22",
+            "label": "contexts,",
+            "count": 22
+        },
+        {
+            "id": "encompassing--23",
+            "label": "encompassing",
+            "count": 23
+        },
+        {
+            "id": "both--24",
+            "label": "both",
+            "count": 24
+        },
+        {
+            "id": "cognitive--25",
+            "label": "cognitive",
+            "count": 25
+        },
+        {
+            "id": "faculties--26",
+            "label": "faculties",
+            "count": 26
+        },
+        {
+            "id": "such--27",
+            "label": "such",
+            "count": 27
+        },
+        {
+            "id": "as--28",
+            "label": "as",
+            "count": 28
+        },
+        {
+            "id": "reasoning,--29",
+            "label": "reasoning,",
+            "count": 29
+        },
+        {
+            "id": "memory,--30",
+            "label": "memory,",
+            "count": 30
+        },
+        {
+            "id": "creativity,--32",
+            "label": "creativity,",
+            "count": 32
+        },
+        {
+            "id": "as--33",
+            "label": "as",
+            "count": 33
+        },
+        {
+            "id": "well--34",
+            "label": "well",
+            "count": 34
+        },
+        {
+            "id": "as--35",
+            "label": "as",
+            "count": 35
+        },
+        {
+            "id": "emotional--36",
+            "label": "emotional",
+            "count": 36
+        },
+        {
+            "id": "and--37",
+            "label": "and",
+            "count": 37
+        },
+        {
+            "id": "social--38",
+            "label": "social",
+            "count": 38
+        },
+        {
+            "id": "understanding--39",
+            "label": "understanding",
+            "count": 39
+        },
+        {
+            "id": "that--40",
+            "label": "that",
+            "count": 40
+        },
+        {
+            "id": "allows--41",
+            "label": "allows",
+            "count": 41
+        },
+        {
+            "id": "individuals--42",
+            "label": "individuals",
+            "count": 42
+        },
+        {
+            "id": "to--43",
+            "label": "to",
+            "count": 43
+        },
+        {
+            "id": "navigate--44",
+            "label": "navigate",
+            "count": 44
+        },
+        {
+            "id": "and--45",
+            "label": "and",
+            "count": 45
+        },
+        {
+            "id": "respond--46",
+            "label": "respond",
+            "count": 46
+        },
+        {
+            "id": "appropriately--47",
+            "label": "appropriately",
+            "count": 47
+        },
+        {
+            "id": "to--48",
+            "label": "to",
+            "count": 48
+        },
+        {
+            "id": "the--49",
+            "label": "the",
+            "count": 49
+        },
+        {
+            "id": "world--50",
+            "label": "world",
+            "count": 50
+        },
+        {
+            "id": "around--51",
+            "label": "around",
+            "count": 51
+        },
+        {
+            "id": "them.--52",
+            "label": "them.",
+            "count": 52
+        },
+        {
+            "id": "capacity--4",
+            "label": "capacity",
+            "count": 4
+        },
+        {
+            "id": "make--20",
+            "label": "make",
+            "count": 20
+        },
+        {
+            "id": "reasoned--21",
+            "label": "reasoned",
+            "count": 21
+        },
+        {
+            "id": "decisions,--22",
+            "label": "decisions,",
+            "count": 22
+        },
+        {
+            "id": "comprehend--24",
+            "label": "comprehend",
+            "count": 24
+        },
+        {
+            "id": "ideas,--26",
+            "label": "ideas,",
+            "count": 26
+        },
+        {
+            "id": "often--27",
+            "label": "often",
+            "count": 27
+        },
+        {
+            "id": "involving--28",
+            "label": "involving",
+            "count": 28
+        },
+        {
+            "id": "simultaneous--30",
+            "label": "simultaneous",
+            "count": 30
+        },
+        {
+            "id": "use--31",
+            "label": "use",
+            "count": 31
+        },
+        {
+            "id": "of--32",
+            "label": "of",
+            "count": 32
+        },
+        {
+            "id": "logic,--33",
+            "label": "logic,",
+            "count": 33
+        },
+        {
+            "id": "creativity,--34",
+            "label": "creativity,",
+            "count": 34
+        },
+        {
+            "id": "perception,--35",
+            "label": "perception,",
+            "count": 35
+        },
+        {
+            "id": "allowing--38",
+            "label": "allowing",
+            "count": 38
+        },
+        {
+            "id": "individuals--39",
+            "label": "individuals",
+            "count": 39
+        },
+        {
+            "id": "not--40",
+            "label": "not",
+            "count": 40
+        },
+        {
+            "id": "only--41",
+            "label": "only",
+            "count": 41
+        },
+        {
+            "id": "to--42",
+            "label": "to",
+            "count": 42
+        },
+        {
+            "id": "process--43",
+            "label": "process",
+            "count": 43
+        },
+        {
+            "id": "information--44",
+            "label": "information",
+            "count": 44
+        },
+        {
+            "id": "efficiently--45",
+            "label": "efficiently",
+            "count": 45
+        },
+        {
+            "id": "but--46",
+            "label": "but",
+            "count": 46
+        },
+        {
+            "id": "also--47",
+            "label": "also",
+            "count": 47
+        },
+        {
+            "id": "interpret--49",
+            "label": "interpret",
+            "count": 49
+        },
+        {
+            "id": "it--50",
+            "label": "it",
+            "count": 50
+        },
+        {
+            "id": "in--51",
+            "label": "in",
+            "count": 51
+        },
+        {
+            "id": "context,--52",
+            "label": "context,",
+            "count": 52
+        },
+        {
+            "id": "recognize--53",
+            "label": "recognize",
+            "count": 53
+        },
+        {
+            "id": "patterns,--54",
+            "label": "patterns,",
+            "count": 54
+        },
+        {
+            "id": "and--55",
+            "label": "and",
+            "count": 55
+        },
+        {
+            "id": "innovate--56",
+            "label": "innovate",
+            "count": 56
+        },
+        {
+            "id": "or--57",
+            "label": "or",
+            "count": 57
+        },
+        {
+            "id": "communicate--58",
+            "label": "communicate",
+            "count": 58
+        },
+        {
+            "id": "effectively--59",
+            "label": "effectively",
+            "count": 59
+        },
+        {
+            "id": "across--60",
+            "label": "across",
+            "count": 60
+        },
+        {
+            "id": "various--61",
+            "label": "various",
+            "count": 61
+        },
+        {
+            "id": "domains--62",
+            "label": "domains",
+            "count": 62
+        },
+        {
+            "id": "and--63",
+            "label": "and",
+            "count": 63
+        },
+        {
+            "id": "environments.--64",
+            "label": "environments.",
+            "count": 64
+        },
+        {
+            "id": "situations--12",
+            "label": "situations",
+            "count": 12
+        },
+        {
+            "id": "or--13",
+            "label": "or",
+            "count": 13
+        },
+        {
+            "id": "challenges--14",
+            "label": "challenges",
+            "count": 14
+        },
+        {
+            "id": "through--15",
+            "label": "through",
+            "count": 15
+        },
+        {
+            "id": "the--16",
+            "label": "the",
+            "count": 16
+        },
+        {
+            "id": "application--17",
+            "label": "application",
+            "count": 17
+        },
+        {
+            "id": "of--18",
+            "label": "of",
+            "count": 18
+        },
+        {
+            "id": "knowledge,--19",
+            "label": "knowledge,",
+            "count": 19
+        },
+        {
+            "id": "reasoning,--20",
+            "label": "reasoning,",
+            "count": 20
+        },
+        {
+            "id": "problem-solving--22",
+            "label": "problem-solving",
+            "count": 22
+        },
+        {
+            "id": "skills,--23",
+            "label": "skills,",
+            "count": 23
+        },
+        {
+            "id": "ability--28",
+            "label": "ability",
+            "count": 28
+        },
+        {
+            "id": "perceive--30",
+            "label": "perceive",
+            "count": 30
+        },
+        {
+            "id": "information,--31",
+            "label": "information,",
+            "count": 31
+        },
+        {
+            "id": "recognize--32",
+            "label": "recognize",
+            "count": 32
+        },
+        {
+            "id": "patterns,--33",
+            "label": "patterns,",
+            "count": 33
+        },
+        {
+            "id": "think--34",
+            "label": "think",
+            "count": 34
+        },
+        {
+            "id": "abstractly,--35",
+            "label": "abstractly,",
+            "count": 35
+        },
+        {
+            "id": "apply--37",
+            "label": "apply",
+            "count": 37
+        },
+        {
+            "id": "logic--38",
+            "label": "logic",
+            "count": 38
+        },
+        {
+            "id": "to--39",
+            "label": "to",
+            "count": 39
+        },
+        {
+            "id": "navigate--40",
+            "label": "navigate",
+            "count": 40
+        },
+        {
+            "id": "complex--41",
+            "label": "complex",
+            "count": 41
+        },
+        {
+            "id": "environments--42",
+            "label": "environments",
+            "count": 42
+        },
+        {
+            "id": "or--43",
+            "label": "or",
+            "count": 43
+        },
+        {
+            "id": "tasks--44",
+            "label": "tasks",
+            "count": 44
+        },
+        {
+            "id": "and--46",
+            "label": "and",
+            "count": 46
+        },
+        {
+            "id": "effectively.--47",
+            "label": "effectively.",
+            "count": 47
+        },
+        {
+            "id": "experience,--8",
+            "label": "experience,",
+            "count": 8
+        },
+        {
+            "id": "handle--15",
+            "label": "handle",
+            "count": 15
+        },
+        {
+            "id": "abstract--16",
+            "label": "abstract",
+            "count": 16
+        },
+        {
+            "id": "concepts,--17",
+            "label": "concepts,",
+            "count": 17
+        },
+        {
+            "id": "utilize--19",
+            "label": "utilize",
+            "count": 19
+        },
+        {
+            "id": "knowledge--20",
+            "label": "knowledge",
+            "count": 20
+        },
+        {
+            "id": "manipulate--22",
+            "label": "manipulate",
+            "count": 22
+        },
+        {
+            "id": "one's--23",
+            "label": "one's",
+            "count": 23
+        },
+        {
+            "id": "environment--24",
+            "label": "environment",
+            "count": 24
+        },
+        {
+            "id": "solve--26",
+            "label": "solve",
+            "count": 26
+        },
+        {
+            "id": "problems--27",
+            "label": "problems",
+            "count": 27
+        },
+        {
+            "id": "effectively.--28",
+            "label": "effectively.",
+            "count": 28
+        },
+        {
+            "id": "remarkable--4",
+            "label": "remarkable",
+            "count": 4
+        },
+        {
+            "id": "capacity--5",
+            "label": "capacity",
+            "count": 5
+        },
+        {
+            "id": "for--6",
+            "label": "for",
+            "count": 6
+        },
+        {
+            "id": "abstract--7",
+            "label": "abstract",
+            "count": 7
+        },
+        {
+            "id": "thought,--8",
+            "label": "thought,",
+            "count": 8
+        },
+        {
+            "id": "understanding,--9",
+            "label": "understanding,",
+            "count": 9
+        },
+        {
+            "id": "learning--10",
+            "label": "learning",
+            "count": 10
+        },
+        {
+            "id": "experience,--12",
+            "label": "experience,",
+            "count": 12
+        },
+        {
+            "id": "problem-solving,--13",
+            "label": "problem-solving,",
+            "count": 13
+        },
+        {
+            "id": "adapting--15",
+            "label": "adapting",
+            "count": 15
+        },
+        {
+            "id": "to--16",
+            "label": "to",
+            "count": 16
+        },
+        {
+            "id": "new--17",
+            "label": "new",
+            "count": 17
+        },
+        {
+            "id": "environments--18",
+            "label": "environments",
+            "count": 18
+        },
+        {
+            "id": "and--19",
+            "label": "and",
+            "count": 19
+        },
+        {
+            "id": "challenges,--20",
+            "label": "challenges,",
+            "count": 20
+        },
+        {
+            "id": "often--21",
+            "label": "often",
+            "count": 21
+        },
+        {
+            "id": "characterized--22",
+            "label": "characterized",
+            "count": 22
+        },
+        {
+            "id": "by--23",
+            "label": "by",
+            "count": 23
+        },
+        {
+            "id": "the--24",
+            "label": "the",
+            "count": 24
+        },
+        {
+            "id": "ability--25",
+            "label": "ability",
+            "count": 25
+        },
+        {
+            "id": "to--26",
+            "label": "to",
+            "count": 26
+        },
+        {
+            "id": "reason,--27",
+            "label": "reason,",
+            "count": 27
+        },
+        {
+            "id": "plan,--28",
+            "label": "plan,",
+            "count": 28
+        },
+        {
+            "id": "and--29",
+            "label": "and",
+            "count": 29
+        },
+        {
+            "id": "make--30",
+            "label": "make",
+            "count": 30
+        },
+        {
+            "id": "decisions--31",
+            "label": "decisions",
+            "count": 31
+        },
+        {
+            "id": "based--32",
+            "label": "based",
+            "count": 32
+        },
+        {
+            "id": "on--33",
+            "label": "on",
+            "count": 33
+        },
+        {
+            "id": "acquired--34",
+            "label": "acquired",
+            "count": 34
+        },
+        {
+            "id": "knowledge--35",
+            "label": "knowledge",
+            "count": 35
+        },
+        {
+            "id": "insight,--37",
+            "label": "insight,",
+            "count": 37
+        },
+        {
+            "id": "all--38",
+            "label": "all",
+            "count": 38
+        },
+        {
+            "id": "while--39",
+            "label": "while",
+            "count": 39
+        },
+        {
+            "id": "demonstrating--40",
+            "label": "demonstrating",
+            "count": 40
+        },
+        {
+            "id": "flexibility,--41",
+            "label": "flexibility,",
+            "count": 41
+        },
+        {
+            "id": "creativity,--42",
+            "label": "creativity,",
+            "count": 42
+        },
+        {
+            "id": "emotional--44",
+            "label": "emotional",
+            "count": 44
+        },
+        {
+            "id": "awareness--45",
+            "label": "awareness",
+            "count": 45
+        },
+        {
+            "id": "in--46",
+            "label": "in",
+            "count": 46
+        },
+        {
+            "id": "various--47",
+            "label": "various",
+            "count": 47
+        },
+        {
+            "id": "contexts--48",
+            "label": "contexts",
+            "count": 48
+        },
+        {
+            "id": "cultures.--50",
+            "label": "cultures.",
+            "count": 50
+        }
+    ],
+    "links": [
+        {
+            "source": "ROOT--0",
+            "target": "intelligence--1"
+        },
+        {
+            "source": "intelligence--1",
+            "target": "is--2"
+        },
+        {
+            "source": "is--2",
+            "target": "the--3"
+        },
+        {
+            "source": "the--3",
+            "target": "ability--4"
+        },
+        {
+            "source": "ability--4",
+            "target": "to--5"
+        },
+        {
+            "source": "to--5",
+            "target": "learn,--6"
+        },
+        {
+            "source": "learn,--6",
+            "target": "understand,--7"
+        },
+        {
+            "source": "understand,--7",
+            "target": "and--8"
+        },
+        {
+            "source": "and--8",
+            "target": "apply--9"
+        },
+        {
+            "source": "apply--9",
+            "target": "knowledge--10"
+        },
+        {
+            "source": "knowledge--10",
+            "target": "and--11"
+        },
+        {
+            "source": "and--11",
+            "target": "skills--12"
+        },
+        {
+            "source": "skills--12",
+            "target": "in--13"
+        },
+        {
+            "source": "in--13",
+            "target": "various--14"
+        },
+        {
+            "source": "various--14",
+            "target": "contexts,--15"
+        },
+        {
+            "source": "contexts,--15",
+            "target": "allowing--16"
+        },
+        {
+            "source": "allowing--16",
+            "target": "individuals--17"
+        },
+        {
+            "source": "individuals--17",
+            "target": "to--18"
+        },
+        {
+            "source": "to--18",
+            "target": "solve--19"
+        },
+        {
+            "source": "solve--19",
+            "target": "problems,--20"
+        },
+        {
+            "source": "problems,--20",
+            "target": "adapt--21"
+        },
+        {
+            "source": "adapt--21",
+            "target": "to--22"
+        },
+        {
+            "source": "to--22",
+            "target": "new--23"
+        },
+        {
+            "source": "new--23",
+            "target": "environments,--24"
+        },
+        {
+            "source": "environments,--24",
+            "target": "think--25"
+        },
+        {
+            "source": "think--25",
+            "target": "critically,--26"
+        },
+        {
+            "source": "critically,--26",
+            "target": "and--27"
+        },
+        {
+            "source": "and--27",
+            "target": "make--28"
+        },
+        {
+            "source": "make--28",
+            "target": "informed--29"
+        },
+        {
+            "source": "informed--29",
+            "target": "decisions.--30"
+        },
+        {
+            "source": "skills--12",
+            "target": "effectively--13"
+        },
+        {
+            "source": "effectively--13",
+            "target": "across--14"
+        },
+        {
+            "source": "across--14",
+            "target": "various--15"
+        },
+        {
+            "source": "various--15",
+            "target": "contexts,--16"
+        },
+        {
+            "source": "contexts,--16",
+            "target": "enabling--17"
+        },
+        {
+            "source": "enabling--17",
+            "target": "individuals--18"
+        },
+        {
+            "source": "individuals--18",
+            "target": "to--19"
+        },
+        {
+            "source": "to--19",
+            "target": "adapt--20"
+        },
+        {
+            "source": "adapt--20",
+            "target": "to--21"
+        },
+        {
+            "source": "to--21",
+            "target": "new--22"
+        },
+        {
+            "source": "new--22",
+            "target": "situations,--23"
+        },
+        {
+            "source": "situations,--23",
+            "target": "solve--24"
+        },
+        {
+            "source": "solve--24",
+            "target": "complex--25"
+        },
+        {
+            "source": "complex--25",
+            "target": "problems,--26"
+        },
+        {
+            "source": "problems,--26",
+            "target": "and--27"
+        },
+        {
+            "source": "and--27",
+            "target": "think--28"
+        },
+        {
+            "source": "think--28",
+            "target": "critically--29"
+        },
+        {
+            "source": "critically--29",
+            "target": "while--30"
+        },
+        {
+            "source": "while--30",
+            "target": "also--31"
+        },
+        {
+            "source": "also--31",
+            "target": "exhibiting--32"
+        },
+        {
+            "source": "exhibiting--32",
+            "target": "creativity,--33"
+        },
+        {
+            "source": "creativity,--33",
+            "target": "emotional--34"
+        },
+        {
+            "source": "emotional--34",
+            "target": "awareness,--35"
+        },
+        {
+            "source": "awareness,--35",
+            "target": "and--36"
+        },
+        {
+            "source": "and--36",
+            "target": "the--37"
+        },
+        {
+            "source": "the--37",
+            "target": "capacity--38"
+        },
+        {
+            "source": "capacity--38",
+            "target": "for--39"
+        },
+        {
+            "source": "for--39",
+            "target": "abstract--40"
+        },
+        {
+            "source": "abstract--40",
+            "target": "reasoning.--41"
+        },
+        {
+            "source": "skills--12",
+            "target": "to--13"
+        },
+        {
+            "source": "to--13",
+            "target": "adapt--14"
+        },
+        {
+            "source": "adapt--14",
+            "target": "to--15"
+        },
+        {
+            "source": "to--15",
+            "target": "new--16"
+        },
+        {
+            "source": "new--16",
+            "target": "situations--17"
+        },
+        {
+            "source": "situations--17",
+            "target": "and--18"
+        },
+        {
+            "source": "and--18",
+            "target": "solve--19"
+        },
+        {
+            "source": "solve--19",
+            "target": "complex--20"
+        },
+        {
+            "source": "complex--20",
+            "target": "problems--21"
+        },
+        {
+            "source": "problems--21",
+            "target": "through--22"
+        },
+        {
+            "source": "through--22",
+            "target": "critical--23"
+        },
+        {
+            "source": "critical--23",
+            "target": "thinking,--24"
+        },
+        {
+            "source": "thinking,--24",
+            "target": "creativity,--25"
+        },
+        {
+            "source": "creativity,--25",
+            "target": "reasoning,--26"
+        },
+        {
+            "source": "reasoning,--26",
+            "target": "and--27"
+        },
+        {
+            "source": "and--27",
+            "target": "emotional--28"
+        },
+        {
+            "source": "emotional--28",
+            "target": "awareness,--29"
+        },
+        {
+            "source": "awareness,--29",
+            "target": "enabling--30"
+        },
+        {
+            "source": "enabling--30",
+            "target": "an--31"
+        },
+        {
+            "source": "an--31",
+            "target": "individual--32"
+        },
+        {
+            "source": "individual--32",
+            "target": "or--33"
+        },
+        {
+            "source": "or--33",
+            "target": "system--34"
+        },
+        {
+            "source": "system--34",
+            "target": "to--35"
+        },
+        {
+            "source": "to--35",
+            "target": "effectively--36"
+        },
+        {
+            "source": "effectively--36",
+            "target": "interpret,--37"
+        },
+        {
+            "source": "interpret,--37",
+            "target": "navigate,--38"
+        },
+        {
+            "source": "navigate,--38",
+            "target": "and--39"
+        },
+        {
+            "source": "and--39",
+            "target": "influence--40"
+        },
+        {
+            "source": "influence--40",
+            "target": "a--41"
+        },
+        {
+            "source": "a--41",
+            "target": "rapidly--42"
+        },
+        {
+            "source": "rapidly--42",
+            "target": "changing--43"
+        },
+        {
+            "source": "changing--43",
+            "target": "world.--44"
+        },
+        {
+            "source": "new--16",
+            "target": "situations,--17"
+        },
+        {
+            "source": "situations,--17",
+            "target": "solve--18"
+        },
+        {
+            "source": "solve--18",
+            "target": "problems,--19"
+        },
+        {
+            "source": "problems,--19",
+            "target": "and--20"
+        },
+        {
+            "source": "and--20",
+            "target": "think--21"
+        },
+        {
+            "source": "think--21",
+            "target": "critically--22"
+        },
+        {
+            "source": "critically--22",
+            "target": "and--23"
+        },
+        {
+            "source": "and--23",
+            "target": "creatively--24"
+        },
+        {
+            "source": "creatively--24",
+            "target": "across--25"
+        },
+        {
+            "source": "across--25",
+            "target": "various--26"
+        },
+        {
+            "source": "various--26",
+            "target": "domains.--27"
+        },
+        {
+            "source": "and--8",
+            "target": "adapt--9"
+        },
+        {
+            "source": "adapt--9",
+            "target": "to--10"
+        },
+        {
+            "source": "to--10",
+            "target": "new--11"
+        },
+        {
+            "source": "new--11",
+            "target": "information--12"
+        },
+        {
+            "source": "information--12",
+            "target": "and--13"
+        },
+        {
+            "source": "and--13",
+            "target": "environments,--14"
+        },
+        {
+            "source": "environments,--14",
+            "target": "applying--15"
+        },
+        {
+            "source": "applying--15",
+            "target": "knowledge--16"
+        },
+        {
+            "source": "knowledge--16",
+            "target": "and--17"
+        },
+        {
+            "source": "and--17",
+            "target": "reasoning--18"
+        },
+        {
+            "source": "reasoning--18",
+            "target": "to--19"
+        },
+        {
+            "source": "to--19",
+            "target": "solve--20"
+        },
+        {
+            "source": "solve--20",
+            "target": "problems,--21"
+        },
+        {
+            "source": "problems,--21",
+            "target": "make--22"
+        },
+        {
+            "source": "make--22",
+            "target": "decisions,--23"
+        },
+        {
+            "source": "decisions,--23",
+            "target": "and--24"
+        },
+        {
+            "source": "and--24",
+            "target": "think--25"
+        },
+        {
+            "source": "think--25",
+            "target": "critically--26"
+        },
+        {
+            "source": "critically--26",
+            "target": "and--27"
+        },
+        {
+            "source": "and--27",
+            "target": "creatively.--28"
+        },
+        {
+            "source": "learn,--6",
+            "target": "adapt,--7"
+        },
+        {
+            "source": "adapt,--7",
+            "target": "and--8"
+        },
+        {
+            "source": "and--8",
+            "target": "apply--9"
+        },
+        {
+            "source": "apply--9",
+            "target": "knowledge--10"
+        },
+        {
+            "source": "knowledge--10",
+            "target": "and--11"
+        },
+        {
+            "source": "and--11",
+            "target": "skills--12"
+        },
+        {
+            "source": "skills--12",
+            "target": "to--13"
+        },
+        {
+            "source": "to--13",
+            "target": "solve--14"
+        },
+        {
+            "source": "solve--14",
+            "target": "problems,--15"
+        },
+        {
+            "source": "problems,--15",
+            "target": "make--16"
+        },
+        {
+            "source": "make--16",
+            "target": "decisions,--17"
+        },
+        {
+            "source": "decisions,--17",
+            "target": "and--18"
+        },
+        {
+            "source": "and--18",
+            "target": "comprehend--19"
+        },
+        {
+            "source": "comprehend--19",
+            "target": "complex--20"
+        },
+        {
+            "source": "complex--20",
+            "target": "ideas--21"
+        },
+        {
+            "source": "ideas--21",
+            "target": "in--22"
+        },
+        {
+            "source": "in--22",
+            "target": "a--23"
+        },
+        {
+            "source": "a--23",
+            "target": "rapidly--24"
+        },
+        {
+            "source": "rapidly--24",
+            "target": "changing--25"
+        },
+        {
+            "source": "changing--25",
+            "target": "environment.--26"
+        },
+        {
+            "source": "to--13",
+            "target": "navigate--14"
+        },
+        {
+            "source": "navigate--14",
+            "target": "and--15"
+        },
+        {
+            "source": "and--15",
+            "target": "solve--16"
+        },
+        {
+            "source": "solve--16",
+            "target": "complex--17"
+        },
+        {
+            "source": "complex--17",
+            "target": "problems--18"
+        },
+        {
+            "source": "problems--18",
+            "target": "in--19"
+        },
+        {
+            "source": "in--19",
+            "target": "diverse--20"
+        },
+        {
+            "source": "diverse--20",
+            "target": "environments,--21"
+        },
+        {
+            "source": "environments,--21",
+            "target": "often--22"
+        },
+        {
+            "source": "often--22",
+            "target": "involving--23"
+        },
+        {
+            "source": "involving--23",
+            "target": "creativity,--24"
+        },
+        {
+            "source": "creativity,--24",
+            "target": "reasoning,--25"
+        },
+        {
+            "source": "reasoning,--25",
+            "target": "and--26"
+        },
+        {
+            "source": "and--26",
+            "target": "understanding--27"
+        },
+        {
+            "source": "understanding--27",
+            "target": "of--28"
+        },
+        {
+            "source": "of--28",
+            "target": "abstract--29"
+        },
+        {
+            "source": "abstract--29",
+            "target": "concepts.--30"
+        },
+        {
+            "source": "to--5",
+            "target": "acquire,--6"
+        },
+        {
+            "source": "acquire,--6",
+            "target": "understand,--7"
+        },
+        {
+            "source": "understand,--7",
+            "target": "and--8"
+        },
+        {
+            "source": "and--8",
+            "target": "apply--9"
+        },
+        {
+            "source": "apply--9",
+            "target": "knowledge--10"
+        },
+        {
+            "source": "knowledge--10",
+            "target": "and--11"
+        },
+        {
+            "source": "and--11",
+            "target": "skills--12"
+        },
+        {
+            "source": "skills--12",
+            "target": "to--13"
+        },
+        {
+            "source": "to--13",
+            "target": "solve--14"
+        },
+        {
+            "source": "solve--14",
+            "target": "problems,--15"
+        },
+        {
+            "source": "problems,--15",
+            "target": "adapt--16"
+        },
+        {
+            "source": "adapt--16",
+            "target": "to--17"
+        },
+        {
+            "source": "to--17",
+            "target": "new--18"
+        },
+        {
+            "source": "new--18",
+            "target": "situations,--19"
+        },
+        {
+            "source": "situations,--19",
+            "target": "and--20"
+        },
+        {
+            "source": "and--20",
+            "target": "think--21"
+        },
+        {
+            "source": "think--21",
+            "target": "critically--22"
+        },
+        {
+            "source": "critically--22",
+            "target": "while--23"
+        },
+        {
+            "source": "while--23",
+            "target": "demonstrating--24"
+        },
+        {
+            "source": "demonstrating--24",
+            "target": "emotional--25"
+        },
+        {
+            "source": "emotional--25",
+            "target": "insight--26"
+        },
+        {
+            "source": "insight--26",
+            "target": "and--27"
+        },
+        {
+            "source": "and--27",
+            "target": "creativity.--28"
+        },
+        {
+            "source": "and--20",
+            "target": "learn--21"
+        },
+        {
+            "source": "learn--21",
+            "target": "from--22"
+        },
+        {
+            "source": "from--22",
+            "target": "experience,--23"
+        },
+        {
+            "source": "experience,--23",
+            "target": "while--24"
+        },
+        {
+            "source": "while--24",
+            "target": "integrating--25"
+        },
+        {
+            "source": "integrating--25",
+            "target": "logical--26"
+        },
+        {
+            "source": "logical--26",
+            "target": "reasoning,--27"
+        },
+        {
+            "source": "reasoning,--27",
+            "target": "creativity,--28"
+        },
+        {
+            "source": "creativity,--28",
+            "target": "emotional--29"
+        },
+        {
+            "source": "emotional--29",
+            "target": "insight,--30"
+        },
+        {
+            "source": "insight,--30",
+            "target": "and--31"
+        },
+        {
+            "source": "and--31",
+            "target": "possibly--32"
+        },
+        {
+            "source": "possibly--32",
+            "target": "even--33"
+        },
+        {
+            "source": "even--33",
+            "target": "social--34"
+        },
+        {
+            "source": "social--34",
+            "target": "awareness,--35"
+        },
+        {
+            "source": "awareness,--35",
+            "target": "enabling--36"
+        },
+        {
+            "source": "enabling--36",
+            "target": "individuals--37"
+        },
+        {
+            "source": "individuals--37",
+            "target": "to--38"
+        },
+        {
+            "source": "to--38",
+            "target": "make--39"
+        },
+        {
+            "source": "make--39",
+            "target": "informed--40"
+        },
+        {
+            "source": "informed--40",
+            "target": "decisions--41"
+        },
+        {
+            "source": "decisions--41",
+            "target": "and--42"
+        },
+        {
+            "source": "and--42",
+            "target": "contribute--43"
+        },
+        {
+            "source": "contribute--43",
+            "target": "effectively--44"
+        },
+        {
+            "source": "effectively--44",
+            "target": "to--45"
+        },
+        {
+            "source": "to--45",
+            "target": "society.--46"
+        },
+        {
+            "source": "problems,--15",
+            "target": "make--16"
+        },
+        {
+            "source": "make--16",
+            "target": "decisions,--17"
+        },
+        {
+            "source": "decisions,--17",
+            "target": "and--18"
+        },
+        {
+            "source": "and--18",
+            "target": "adapt--19"
+        },
+        {
+            "source": "adapt--19",
+            "target": "to--20"
+        },
+        {
+            "source": "to--20",
+            "target": "new--21"
+        },
+        {
+            "source": "new--21",
+            "target": "situations--22"
+        },
+        {
+            "source": "situations--22",
+            "target": "effectively.--23"
+        },
+        {
+            "source": "acquire,--6",
+            "target": "apply,--7"
+        },
+        {
+            "source": "apply,--7",
+            "target": "and--8"
+        },
+        {
+            "source": "and--8",
+            "target": "generate--9"
+        },
+        {
+            "source": "generate--9",
+            "target": "knowledge--10"
+        },
+        {
+            "source": "knowledge--10",
+            "target": "and--11"
+        },
+        {
+            "source": "and--11",
+            "target": "skills--12"
+        },
+        {
+            "source": "skills--12",
+            "target": "to--13"
+        },
+        {
+            "source": "to--13",
+            "target": "adapt--14"
+        },
+        {
+            "source": "adapt--14",
+            "target": "to--15"
+        },
+        {
+            "source": "to--15",
+            "target": "changing--16"
+        },
+        {
+            "source": "changing--16",
+            "target": "environments,--17"
+        },
+        {
+            "source": "environments,--17",
+            "target": "solve--18"
+        },
+        {
+            "source": "solve--18",
+            "target": "complex--19"
+        },
+        {
+            "source": "complex--19",
+            "target": "problems,--20"
+        },
+        {
+            "source": "problems,--20",
+            "target": "and--21"
+        },
+        {
+            "source": "and--21",
+            "target": "engage--22"
+        },
+        {
+            "source": "engage--22",
+            "target": "in--23"
+        },
+        {
+            "source": "in--23",
+            "target": "abstract--24"
+        },
+        {
+            "source": "abstract--24",
+            "target": "reasoning--25"
+        },
+        {
+            "source": "reasoning--25",
+            "target": "and--26"
+        },
+        {
+            "source": "and--26",
+            "target": "critical--27"
+        },
+        {
+            "source": "critical--27",
+            "target": "thinking,--28"
+        },
+        {
+            "source": "thinking,--28",
+            "target": "manifesting--29"
+        },
+        {
+            "source": "manifesting--29",
+            "target": "in--30"
+        },
+        {
+            "source": "in--30",
+            "target": "various--31"
+        },
+        {
+            "source": "various--31",
+            "target": "forms--32"
+        },
+        {
+            "source": "forms--32",
+            "target": "such--33"
+        },
+        {
+            "source": "such--33",
+            "target": "as--34"
+        },
+        {
+            "source": "as--34",
+            "target": "emotional,--35"
+        },
+        {
+            "source": "emotional,--35",
+            "target": "linguistic,--36"
+        },
+        {
+            "source": "linguistic,--36",
+            "target": "logical-mathematical,--37"
+        },
+        {
+            "source": "logical-mathematical,--37",
+            "target": "spatial,--38"
+        },
+        {
+            "source": "spatial,--38",
+            "target": "musical,--39"
+        },
+        {
+            "source": "musical,--39",
+            "target": "interpersonal,--40"
+        },
+        {
+            "source": "interpersonal,--40",
+            "target": "and--41"
+        },
+        {
+            "source": "and--41",
+            "target": "intrapersonal--42"
+        },
+        {
+            "source": "intrapersonal--42",
+            "target": "intelligence,--43"
+        },
+        {
+            "source": "intelligence,--43",
+            "target": "each--44"
+        },
+        {
+            "source": "each--44",
+            "target": "contributing--45"
+        },
+        {
+            "source": "contributing--45",
+            "target": "distinctively--46"
+        },
+        {
+            "source": "distinctively--46",
+            "target": "to--47"
+        },
+        {
+            "source": "to--47",
+            "target": "personal--48"
+        },
+        {
+            "source": "personal--48",
+            "target": "and--49"
+        },
+        {
+            "source": "and--49",
+            "target": "collective--50"
+        },
+        {
+            "source": "collective--50",
+            "target": "success--51"
+        },
+        {
+            "source": "success--51",
+            "target": "and--52"
+        },
+        {
+            "source": "and--52",
+            "target": "innovation.--53"
+        },
+        {
+            "source": "and--8",
+            "target": "adapt--9"
+        },
+        {
+            "source": "adapt--9",
+            "target": "knowledge--10"
+        },
+        {
+            "source": "knowledge--10",
+            "target": "and--11"
+        },
+        {
+            "source": "and--11",
+            "target": "skills--12"
+        },
+        {
+            "source": "skills--12",
+            "target": "in--13"
+        },
+        {
+            "source": "in--13",
+            "target": "various--14"
+        },
+        {
+            "source": "various--14",
+            "target": "contexts,--15"
+        },
+        {
+            "source": "contexts,--15",
+            "target": "allowing--16"
+        },
+        {
+            "source": "allowing--16",
+            "target": "individuals--17"
+        },
+        {
+            "source": "individuals--17",
+            "target": "to--18"
+        },
+        {
+            "source": "to--18",
+            "target": "solve--19"
+        },
+        {
+            "source": "solve--19",
+            "target": "problems,--20"
+        },
+        {
+            "source": "problems,--20",
+            "target": "learn--21"
+        },
+        {
+            "source": "learn--21",
+            "target": "from--22"
+        },
+        {
+            "source": "from--22",
+            "target": "experiences,--23"
+        },
+        {
+            "source": "experiences,--23",
+            "target": "and--24"
+        },
+        {
+            "source": "and--24",
+            "target": "understand--25"
+        },
+        {
+            "source": "understand--25",
+            "target": "complex--26"
+        },
+        {
+            "source": "complex--26",
+            "target": "concepts,--27"
+        },
+        {
+            "source": "concepts,--27",
+            "target": "contributing--28"
+        },
+        {
+            "source": "contributing--28",
+            "target": "to--29"
+        },
+        {
+            "source": "to--29",
+            "target": "effective--30"
+        },
+        {
+            "source": "effective--30",
+            "target": "decision-making--31"
+        },
+        {
+            "source": "decision-making--31",
+            "target": "and--32"
+        },
+        {
+            "source": "and--32",
+            "target": "creativity.--33"
+        },
+        {
+            "source": "to--5",
+            "target": "acquire--6"
+        },
+        {
+            "source": "acquire--6",
+            "target": "and--7"
+        },
+        {
+            "source": "and--7",
+            "target": "apply--8"
+        },
+        {
+            "source": "apply--8",
+            "target": "knowledge--9"
+        },
+        {
+            "source": "knowledge--9",
+            "target": "and--10"
+        },
+        {
+            "source": "and--10",
+            "target": "skills--11"
+        },
+        {
+            "source": "skills--11",
+            "target": "in--12"
+        },
+        {
+            "source": "in--12",
+            "target": "a--13"
+        },
+        {
+            "source": "a--13",
+            "target": "way--14"
+        },
+        {
+            "source": "way--14",
+            "target": "that--15"
+        },
+        {
+            "source": "that--15",
+            "target": "allows--16"
+        },
+        {
+            "source": "allows--16",
+            "target": "for--17"
+        },
+        {
+            "source": "for--17",
+            "target": "problem-solving,--18"
+        },
+        {
+            "source": "problem-solving,--18",
+            "target": "adaptation--19"
+        },
+        {
+            "source": "adaptation--19",
+            "target": "to--20"
+        },
+        {
+            "source": "to--20",
+            "target": "new--21"
+        },
+        {
+            "source": "new--21",
+            "target": "situations,--22"
+        },
+        {
+            "source": "situations,--22",
+            "target": "creative--23"
+        },
+        {
+            "source": "creative--23",
+            "target": "thinking,--24"
+        },
+        {
+            "source": "thinking,--24",
+            "target": "and--25"
+        },
+        {
+            "source": "and--25",
+            "target": "effective--26"
+        },
+        {
+            "source": "effective--26",
+            "target": "communication,--27"
+        },
+        {
+            "source": "communication,--27",
+            "target": "driving--28"
+        },
+        {
+            "source": "driving--28",
+            "target": "the--29"
+        },
+        {
+            "source": "the--29",
+            "target": "capacity--30"
+        },
+        {
+            "source": "capacity--30",
+            "target": "to--31"
+        },
+        {
+            "source": "to--31",
+            "target": "understand--32"
+        },
+        {
+            "source": "understand--32",
+            "target": "complex--33"
+        },
+        {
+            "source": "complex--33",
+            "target": "ideas,--34"
+        },
+        {
+            "source": "ideas,--34",
+            "target": "learn--35"
+        },
+        {
+            "source": "learn--35",
+            "target": "from--36"
+        },
+        {
+            "source": "from--36",
+            "target": "experience,--37"
+        },
+        {
+            "source": "experience,--37",
+            "target": "and--38"
+        },
+        {
+            "source": "and--38",
+            "target": "overcome--39"
+        },
+        {
+            "source": "overcome--39",
+            "target": "challenges--40"
+        },
+        {
+            "source": "challenges--40",
+            "target": "with--41"
+        },
+        {
+            "source": "with--41",
+            "target": "insight--42"
+        },
+        {
+            "source": "insight--42",
+            "target": "and--43"
+        },
+        {
+            "source": "and--43",
+            "target": "foresight.--44"
+        },
+        {
+            "source": "to--5",
+            "target": "learn--6"
+        },
+        {
+            "source": "learn--6",
+            "target": "from--7"
+        },
+        {
+            "source": "from--7",
+            "target": "experiences,--8"
+        },
+        {
+            "source": "experiences,--8",
+            "target": "adapt--9"
+        },
+        {
+            "source": "adapt--9",
+            "target": "to--10"
+        },
+        {
+            "source": "to--10",
+            "target": "new--11"
+        },
+        {
+            "source": "new--11",
+            "target": "situations,--12"
+        },
+        {
+            "source": "situations,--12",
+            "target": "understand--13"
+        },
+        {
+            "source": "understand--13",
+            "target": "complex--14"
+        },
+        {
+            "source": "complex--14",
+            "target": "concepts,--15"
+        },
+        {
+            "source": "concepts,--15",
+            "target": "recognize--16"
+        },
+        {
+            "source": "recognize--16",
+            "target": "patterns,--17"
+        },
+        {
+            "source": "patterns,--17",
+            "target": "solve--18"
+        },
+        {
+            "source": "solve--18",
+            "target": "problems,--19"
+        },
+        {
+            "source": "problems,--19",
+            "target": "and--20"
+        },
+        {
+            "source": "and--20",
+            "target": "make--21"
+        },
+        {
+            "source": "make--21",
+            "target": "reasoned--22"
+        },
+        {
+            "source": "reasoned--22",
+            "target": "decisions,--23"
+        },
+        {
+            "source": "decisions,--23",
+            "target": "often--24"
+        },
+        {
+            "source": "often--24",
+            "target": "characterized--25"
+        },
+        {
+            "source": "characterized--25",
+            "target": "by--26"
+        },
+        {
+            "source": "by--26",
+            "target": "the--27"
+        },
+        {
+            "source": "the--27",
+            "target": "capacity--28"
+        },
+        {
+            "source": "capacity--28",
+            "target": "for--29"
+        },
+        {
+            "source": "for--29",
+            "target": "abstract--30"
+        },
+        {
+            "source": "abstract--30",
+            "target": "thinking,--31"
+        },
+        {
+            "source": "thinking,--31",
+            "target": "strategic--32"
+        },
+        {
+            "source": "strategic--32",
+            "target": "planning,--33"
+        },
+        {
+            "source": "planning,--33",
+            "target": "and--34"
+        },
+        {
+            "source": "and--34",
+            "target": "the--35"
+        },
+        {
+            "source": "the--35",
+            "target": "discernment--36"
+        },
+        {
+            "source": "discernment--36",
+            "target": "to--37"
+        },
+        {
+            "source": "to--37",
+            "target": "apply--38"
+        },
+        {
+            "source": "apply--38",
+            "target": "knowledge--39"
+        },
+        {
+            "source": "knowledge--39",
+            "target": "effectively--40"
+        },
+        {
+            "source": "effectively--40",
+            "target": "in--41"
+        },
+        {
+            "source": "in--41",
+            "target": "diverse--42"
+        },
+        {
+            "source": "diverse--42",
+            "target": "environments.--43"
+        },
+        {
+            "source": "to--5",
+            "target": "understand,--6"
+        },
+        {
+            "source": "understand,--6",
+            "target": "interpret,--7"
+        },
+        {
+            "source": "interpret,--7",
+            "target": "and--8"
+        },
+        {
+            "source": "and--8",
+            "target": "apply--9"
+        },
+        {
+            "source": "apply--9",
+            "target": "knowledge--10"
+        },
+        {
+            "source": "knowledge--10",
+            "target": "from--11"
+        },
+        {
+            "source": "from--11",
+            "target": "various--12"
+        },
+        {
+            "source": "various--12",
+            "target": "experiences--13"
+        },
+        {
+            "source": "experiences--13",
+            "target": "and--14"
+        },
+        {
+            "source": "and--14",
+            "target": "information,--15"
+        },
+        {
+            "source": "information,--15",
+            "target": "enabling--16"
+        },
+        {
+            "source": "enabling--16",
+            "target": "individuals--17"
+        },
+        {
+            "source": "individuals--17",
+            "target": "to--18"
+        },
+        {
+            "source": "to--18",
+            "target": "solve--19"
+        },
+        {
+            "source": "solve--19",
+            "target": "problems,--20"
+        },
+        {
+            "source": "problems,--20",
+            "target": "adapt--21"
+        },
+        {
+            "source": "adapt--21",
+            "target": "to--22"
+        },
+        {
+            "source": "to--22",
+            "target": "new--23"
+        },
+        {
+            "source": "new--23",
+            "target": "situations,--24"
+        },
+        {
+            "source": "situations,--24",
+            "target": "think--25"
+        },
+        {
+            "source": "think--25",
+            "target": "critically,--26"
+        },
+        {
+            "source": "critically,--26",
+            "target": "and--27"
+        },
+        {
+            "source": "and--27",
+            "target": "make--28"
+        },
+        {
+            "source": "make--28",
+            "target": "informed--29"
+        },
+        {
+            "source": "informed--29",
+            "target": "decisions.--30"
+        },
+        {
+            "source": "to--5",
+            "target": "adapt--6"
+        },
+        {
+            "source": "adapt--6",
+            "target": "to--7"
+        },
+        {
+            "source": "to--7",
+            "target": "new--8"
+        },
+        {
+            "source": "new--8",
+            "target": "situations,--9"
+        },
+        {
+            "source": "situations,--9",
+            "target": "solve--10"
+        },
+        {
+            "source": "solve--10",
+            "target": "complex--11"
+        },
+        {
+            "source": "complex--11",
+            "target": "problems,--12"
+        },
+        {
+            "source": "problems,--12",
+            "target": "learn--13"
+        },
+        {
+            "source": "learn--13",
+            "target": "from--14"
+        },
+        {
+            "source": "from--14",
+            "target": "experience,--15"
+        },
+        {
+            "source": "experience,--15",
+            "target": "and--16"
+        },
+        {
+            "source": "and--16",
+            "target": "apply--17"
+        },
+        {
+            "source": "apply--17",
+            "target": "knowledge--18"
+        },
+        {
+            "source": "knowledge--18",
+            "target": "effectively--19"
+        },
+        {
+            "source": "effectively--19",
+            "target": "across--20"
+        },
+        {
+            "source": "across--20",
+            "target": "diverse--21"
+        },
+        {
+            "source": "diverse--21",
+            "target": "contexts,--22"
+        },
+        {
+            "source": "contexts,--22",
+            "target": "encompassing--23"
+        },
+        {
+            "source": "encompassing--23",
+            "target": "both--24"
+        },
+        {
+            "source": "both--24",
+            "target": "cognitive--25"
+        },
+        {
+            "source": "cognitive--25",
+            "target": "faculties--26"
+        },
+        {
+            "source": "faculties--26",
+            "target": "such--27"
+        },
+        {
+            "source": "such--27",
+            "target": "as--28"
+        },
+        {
+            "source": "as--28",
+            "target": "reasoning,--29"
+        },
+        {
+            "source": "reasoning,--29",
+            "target": "memory,--30"
+        },
+        {
+            "source": "memory,--30",
+            "target": "and--31"
+        },
+        {
+            "source": "and--31",
+            "target": "creativity,--32"
+        },
+        {
+            "source": "creativity,--32",
+            "target": "as--33"
+        },
+        {
+            "source": "as--33",
+            "target": "well--34"
+        },
+        {
+            "source": "well--34",
+            "target": "as--35"
+        },
+        {
+            "source": "as--35",
+            "target": "emotional--36"
+        },
+        {
+            "source": "emotional--36",
+            "target": "and--37"
+        },
+        {
+            "source": "and--37",
+            "target": "social--38"
+        },
+        {
+            "source": "social--38",
+            "target": "understanding--39"
+        },
+        {
+            "source": "understanding--39",
+            "target": "that--40"
+        },
+        {
+            "source": "that--40",
+            "target": "allows--41"
+        },
+        {
+            "source": "allows--41",
+            "target": "individuals--42"
+        },
+        {
+            "source": "individuals--42",
+            "target": "to--43"
+        },
+        {
+            "source": "to--43",
+            "target": "navigate--44"
+        },
+        {
+            "source": "navigate--44",
+            "target": "and--45"
+        },
+        {
+            "source": "and--45",
+            "target": "respond--46"
+        },
+        {
+            "source": "respond--46",
+            "target": "appropriately--47"
+        },
+        {
+            "source": "appropriately--47",
+            "target": "to--48"
+        },
+        {
+            "source": "to--48",
+            "target": "the--49"
+        },
+        {
+            "source": "the--49",
+            "target": "world--50"
+        },
+        {
+            "source": "world--50",
+            "target": "around--51"
+        },
+        {
+            "source": "around--51",
+            "target": "them.--52"
+        },
+        {
+            "source": "the--3",
+            "target": "capacity--4"
+        },
+        {
+            "source": "capacity--4",
+            "target": "to--5"
+        },
+        {
+            "source": "to--5",
+            "target": "learn,--6"
+        },
+        {
+            "source": "learn,--6",
+            "target": "understand,--7"
+        },
+        {
+            "source": "understand,--7",
+            "target": "and--8"
+        },
+        {
+            "source": "and--8",
+            "target": "apply--9"
+        },
+        {
+            "source": "apply--9",
+            "target": "knowledge--10"
+        },
+        {
+            "source": "knowledge--10",
+            "target": "and--11"
+        },
+        {
+            "source": "and--11",
+            "target": "skills--12"
+        },
+        {
+            "source": "skills--12",
+            "target": "to--13"
+        },
+        {
+            "source": "to--13",
+            "target": "adapt--14"
+        },
+        {
+            "source": "adapt--14",
+            "target": "to--15"
+        },
+        {
+            "source": "to--15",
+            "target": "new--16"
+        },
+        {
+            "source": "new--16",
+            "target": "situations,--17"
+        },
+        {
+            "source": "situations,--17",
+            "target": "solve--18"
+        },
+        {
+            "source": "solve--18",
+            "target": "problems,--19"
+        },
+        {
+            "source": "problems,--19",
+            "target": "make--20"
+        },
+        {
+            "source": "make--20",
+            "target": "reasoned--21"
+        },
+        {
+            "source": "reasoned--21",
+            "target": "decisions,--22"
+        },
+        {
+            "source": "decisions,--22",
+            "target": "and--23"
+        },
+        {
+            "source": "and--23",
+            "target": "comprehend--24"
+        },
+        {
+            "source": "comprehend--24",
+            "target": "complex--25"
+        },
+        {
+            "source": "complex--25",
+            "target": "ideas,--26"
+        },
+        {
+            "source": "ideas,--26",
+            "target": "often--27"
+        },
+        {
+            "source": "often--27",
+            "target": "involving--28"
+        },
+        {
+            "source": "involving--28",
+            "target": "the--29"
+        },
+        {
+            "source": "the--29",
+            "target": "simultaneous--30"
+        },
+        {
+            "source": "simultaneous--30",
+            "target": "use--31"
+        },
+        {
+            "source": "use--31",
+            "target": "of--32"
+        },
+        {
+            "source": "of--32",
+            "target": "logic,--33"
+        },
+        {
+            "source": "logic,--33",
+            "target": "creativity,--34"
+        },
+        {
+            "source": "creativity,--34",
+            "target": "perception,--35"
+        },
+        {
+            "source": "perception,--35",
+            "target": "and--36"
+        },
+        {
+            "source": "and--36",
+            "target": "experience,--37"
+        },
+        {
+            "source": "experience,--37",
+            "target": "allowing--38"
+        },
+        {
+            "source": "allowing--38",
+            "target": "individuals--39"
+        },
+        {
+            "source": "individuals--39",
+            "target": "not--40"
+        },
+        {
+            "source": "not--40",
+            "target": "only--41"
+        },
+        {
+            "source": "only--41",
+            "target": "to--42"
+        },
+        {
+            "source": "to--42",
+            "target": "process--43"
+        },
+        {
+            "source": "process--43",
+            "target": "information--44"
+        },
+        {
+            "source": "information--44",
+            "target": "efficiently--45"
+        },
+        {
+            "source": "efficiently--45",
+            "target": "but--46"
+        },
+        {
+            "source": "but--46",
+            "target": "also--47"
+        },
+        {
+            "source": "also--47",
+            "target": "to--48"
+        },
+        {
+            "source": "to--48",
+            "target": "interpret--49"
+        },
+        {
+            "source": "interpret--49",
+            "target": "it--50"
+        },
+        {
+            "source": "it--50",
+            "target": "in--51"
+        },
+        {
+            "source": "in--51",
+            "target": "context,--52"
+        },
+        {
+            "source": "context,--52",
+            "target": "recognize--53"
+        },
+        {
+            "source": "recognize--53",
+            "target": "patterns,--54"
+        },
+        {
+            "source": "patterns,--54",
+            "target": "and--55"
+        },
+        {
+            "source": "and--55",
+            "target": "innovate--56"
+        },
+        {
+            "source": "innovate--56",
+            "target": "or--57"
+        },
+        {
+            "source": "or--57",
+            "target": "communicate--58"
+        },
+        {
+            "source": "communicate--58",
+            "target": "effectively--59"
+        },
+        {
+            "source": "effectively--59",
+            "target": "across--60"
+        },
+        {
+            "source": "across--60",
+            "target": "various--61"
+        },
+        {
+            "source": "various--61",
+            "target": "domains--62"
+        },
+        {
+            "source": "domains--62",
+            "target": "and--63"
+        },
+        {
+            "source": "and--63",
+            "target": "environments.--64"
+        },
+        {
+            "source": "and--8",
+            "target": "adapt--9"
+        },
+        {
+            "source": "adapt--9",
+            "target": "to--10"
+        },
+        {
+            "source": "to--10",
+            "target": "new--11"
+        },
+        {
+            "source": "new--11",
+            "target": "situations--12"
+        },
+        {
+            "source": "situations--12",
+            "target": "or--13"
+        },
+        {
+            "source": "or--13",
+            "target": "challenges--14"
+        },
+        {
+            "source": "challenges--14",
+            "target": "through--15"
+        },
+        {
+            "source": "through--15",
+            "target": "the--16"
+        },
+        {
+            "source": "the--16",
+            "target": "application--17"
+        },
+        {
+            "source": "application--17",
+            "target": "of--18"
+        },
+        {
+            "source": "of--18",
+            "target": "knowledge,--19"
+        },
+        {
+            "source": "knowledge,--19",
+            "target": "reasoning,--20"
+        },
+        {
+            "source": "reasoning,--20",
+            "target": "and--21"
+        },
+        {
+            "source": "and--21",
+            "target": "problem-solving--22"
+        },
+        {
+            "source": "problem-solving--22",
+            "target": "skills,--23"
+        },
+        {
+            "source": "skills,--23",
+            "target": "often--24"
+        },
+        {
+            "source": "often--24",
+            "target": "characterized--25"
+        },
+        {
+            "source": "characterized--25",
+            "target": "by--26"
+        },
+        {
+            "source": "by--26",
+            "target": "the--27"
+        },
+        {
+            "source": "the--27",
+            "target": "ability--28"
+        },
+        {
+            "source": "ability--28",
+            "target": "to--29"
+        },
+        {
+            "source": "to--29",
+            "target": "perceive--30"
+        },
+        {
+            "source": "perceive--30",
+            "target": "information,--31"
+        },
+        {
+            "source": "information,--31",
+            "target": "recognize--32"
+        },
+        {
+            "source": "recognize--32",
+            "target": "patterns,--33"
+        },
+        {
+            "source": "patterns,--33",
+            "target": "think--34"
+        },
+        {
+            "source": "think--34",
+            "target": "abstractly,--35"
+        },
+        {
+            "source": "abstractly,--35",
+            "target": "and--36"
+        },
+        {
+            "source": "and--36",
+            "target": "apply--37"
+        },
+        {
+            "source": "apply--37",
+            "target": "logic--38"
+        },
+        {
+            "source": "logic--38",
+            "target": "to--39"
+        },
+        {
+            "source": "to--39",
+            "target": "navigate--40"
+        },
+        {
+            "source": "navigate--40",
+            "target": "complex--41"
+        },
+        {
+            "source": "complex--41",
+            "target": "environments--42"
+        },
+        {
+            "source": "environments--42",
+            "target": "or--43"
+        },
+        {
+            "source": "or--43",
+            "target": "tasks--44"
+        },
+        {
+            "source": "tasks--44",
+            "target": "efficiently--45"
+        },
+        {
+            "source": "efficiently--45",
+            "target": "and--46"
+        },
+        {
+            "source": "and--46",
+            "target": "effectively.--47"
+        },
+        {
+            "source": "to--5",
+            "target": "learn--6"
+        },
+        {
+            "source": "learn--6",
+            "target": "from--7"
+        },
+        {
+            "source": "from--7",
+            "target": "experience,--8"
+        },
+        {
+            "source": "experience,--8",
+            "target": "adapt--9"
+        },
+        {
+            "source": "adapt--9",
+            "target": "to--10"
+        },
+        {
+            "source": "to--10",
+            "target": "new--11"
+        },
+        {
+            "source": "new--11",
+            "target": "situations,--12"
+        },
+        {
+            "source": "situations,--12",
+            "target": "understand--13"
+        },
+        {
+            "source": "understand--13",
+            "target": "and--14"
+        },
+        {
+            "source": "and--14",
+            "target": "handle--15"
+        },
+        {
+            "source": "handle--15",
+            "target": "abstract--16"
+        },
+        {
+            "source": "abstract--16",
+            "target": "concepts,--17"
+        },
+        {
+            "source": "concepts,--17",
+            "target": "and--18"
+        },
+        {
+            "source": "and--18",
+            "target": "utilize--19"
+        },
+        {
+            "source": "utilize--19",
+            "target": "knowledge--20"
+        },
+        {
+            "source": "knowledge--20",
+            "target": "to--21"
+        },
+        {
+            "source": "to--21",
+            "target": "manipulate--22"
+        },
+        {
+            "source": "manipulate--22",
+            "target": "one's--23"
+        },
+        {
+            "source": "one's--23",
+            "target": "environment--24"
+        },
+        {
+            "source": "environment--24",
+            "target": "and--25"
+        },
+        {
+            "source": "and--25",
+            "target": "solve--26"
+        },
+        {
+            "source": "solve--26",
+            "target": "problems--27"
+        },
+        {
+            "source": "problems--27",
+            "target": "effectively.--28"
+        },
+        {
+            "source": "the--3",
+            "target": "remarkable--4"
+        },
+        {
+            "source": "remarkable--4",
+            "target": "capacity--5"
+        },
+        {
+            "source": "capacity--5",
+            "target": "for--6"
+        },
+        {
+            "source": "for--6",
+            "target": "abstract--7"
+        },
+        {
+            "source": "abstract--7",
+            "target": "thought,--8"
+        },
+        {
+            "source": "thought,--8",
+            "target": "understanding,--9"
+        },
+        {
+            "source": "understanding,--9",
+            "target": "learning--10"
+        },
+        {
+            "source": "learning--10",
+            "target": "from--11"
+        },
+        {
+            "source": "from--11",
+            "target": "experience,--12"
+        },
+        {
+            "source": "experience,--12",
+            "target": "problem-solving,--13"
+        },
+        {
+            "source": "problem-solving,--13",
+            "target": "and--14"
+        },
+        {
+            "source": "and--14",
+            "target": "adapting--15"
+        },
+        {
+            "source": "adapting--15",
+            "target": "to--16"
+        },
+        {
+            "source": "to--16",
+            "target": "new--17"
+        },
+        {
+            "source": "new--17",
+            "target": "environments--18"
+        },
+        {
+            "source": "environments--18",
+            "target": "and--19"
+        },
+        {
+            "source": "and--19",
+            "target": "challenges,--20"
+        },
+        {
+            "source": "challenges,--20",
+            "target": "often--21"
+        },
+        {
+            "source": "often--21",
+            "target": "characterized--22"
+        },
+        {
+            "source": "characterized--22",
+            "target": "by--23"
+        },
+        {
+            "source": "by--23",
+            "target": "the--24"
+        },
+        {
+            "source": "the--24",
+            "target": "ability--25"
+        },
+        {
+            "source": "ability--25",
+            "target": "to--26"
+        },
+        {
+            "source": "to--26",
+            "target": "reason,--27"
+        },
+        {
+            "source": "reason,--27",
+            "target": "plan,--28"
+        },
+        {
+            "source": "plan,--28",
+            "target": "and--29"
+        },
+        {
+            "source": "and--29",
+            "target": "make--30"
+        },
+        {
+            "source": "make--30",
+            "target": "decisions--31"
+        },
+        {
+            "source": "decisions--31",
+            "target": "based--32"
+        },
+        {
+            "source": "based--32",
+            "target": "on--33"
+        },
+        {
+            "source": "on--33",
+            "target": "acquired--34"
+        },
+        {
+            "source": "acquired--34",
+            "target": "knowledge--35"
+        },
+        {
+            "source": "knowledge--35",
+            "target": "and--36"
+        },
+        {
+            "source": "and--36",
+            "target": "insight,--37"
+        },
+        {
+            "source": "insight,--37",
+            "target": "all--38"
+        },
+        {
+            "source": "all--38",
+            "target": "while--39"
+        },
+        {
+            "source": "while--39",
+            "target": "demonstrating--40"
+        },
+        {
+            "source": "demonstrating--40",
+            "target": "flexibility,--41"
+        },
+        {
+            "source": "flexibility,--41",
+            "target": "creativity,--42"
+        },
+        {
+            "source": "creativity,--42",
+            "target": "and--43"
+        },
+        {
+            "source": "and--43",
+            "target": "emotional--44"
+        },
+        {
+            "source": "emotional--44",
+            "target": "awareness--45"
+        },
+        {
+            "source": "awareness--45",
+            "target": "in--46"
+        },
+        {
+            "source": "in--46",
+            "target": "various--47"
+        },
+        {
+            "source": "various--47",
+            "target": "contexts--48"
+        },
+        {
+            "source": "contexts--48",
+            "target": "and--49"
+        },
+        {
+            "source": "and--49",
+            "target": "cultures.--50"
+        }
+    ]
+}
